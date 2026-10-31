@@ -1,0 +1,2 @@
+# Shell scripts must stay LF or they fail to execute on macOS/Linux.
+* text=auto eol=lf
